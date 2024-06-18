@@ -14,9 +14,10 @@ print(a,b,c)
 
 x=4
 y="5"
-y=int(y)
+# y=int(y)
 print(x,y)
 print(x+y)
+
 
 
 
