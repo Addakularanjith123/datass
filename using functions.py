@@ -7,4 +7,4 @@ def factorial(num):
     print(prod)
     n_rfact = prod
     return factorial
-print(f"the fu{factorial(4)}")
+print(f"the fuction{factorial(4)}")
