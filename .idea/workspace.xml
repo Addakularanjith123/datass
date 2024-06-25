@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c106f9-5d46-46b9-8f80-6419c797cdbd" name="Changes" comment="function">
-      <change afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+    <list default="true" id="43c106f9-5d46-46b9-8f80-6419c797cdbd" name="Changes" comment="Classes in OOPs">
+      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,21 +48,30 @@
   "keyToString": {
     "Python.Classes.executor": "Run",
     "Python.Collections.executor": "Run",
+    "Python.Inheritance.executor": "Run",
     "Python.basic_if.executor": "Run",
+    "Python.classTest.executor": "Run",
     "Python.clone.executor": "Run",
     "Python.list & dict.executor": "Run",
     "Python.list and dictionaries.executor": "Run",
     "Python.multiple_values.executor": "Debug",
     "Python.ncr.executor": "Run",
+    "Python.poly.executor": "Run",
+    "Python.polymorphism.executor": "Run",
     "Python.ranjith.executor": "Run",
     "Python.string concatination.executor": "Run",
     "Python.sum.executor": "Debug",
     "Python.using functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Ranjith"
+    "last_opened_file_path": "C:/Users/addak/PycharmProjects/Proj1/RanjithDS"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\addak\PycharmProjects\Proj1\RanjithDS" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -141,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718919433683</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Classes in OOPs">
+      <option name="closed" value="true" />
+      <created>1719201528497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719201528497</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,7 +181,8 @@
     <MESSAGE value="list and dictionaries" />
     <MESSAGE value="list and dictionaries functions" />
     <MESSAGE value="function" />
-    <option name="LAST_COMMIT_MESSAGE" value="function" />
+    <MESSAGE value="Classes in OOPs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes in OOPs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
